@@ -19,4 +19,5 @@ int main(){
 	for (std::vector<int>::iterator it=vect.begin(); it!=vect.end(); ++it){
 		std::cout << *it<<"\t";
 	}
+return 0;
 }
